@@ -17,7 +17,7 @@ document
       return;
     }
 
-    // Show loading modal with spinning effect
+    // Show the modal
     document.getElementById("loadingModal").classList.remove("hidden");
 
     // Dynamically build the API URL
